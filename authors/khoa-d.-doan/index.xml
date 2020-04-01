@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Khoa D. Doan | Saurav Manchanda</title>
+    <link>/authors/khoa-d.-doan/</link>
+      <atom:link href="/authors/khoa-d.-doan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Khoa D. Doan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Khoa D. Doan</title>
+      <link>/authors/khoa-d.-doan/</link>
+    </image>
+    
+    <item>
+      <title>Image Generation Via Minimizing Frechet Distance in Discriminator Feature Space</title>
+      <link>/publication/eccv_preprint/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/eccv_preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression via Implicit Models and Optimal Transport Cost Minimization</title>
+      <link>/publication/icml_preprint/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/icml_preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Hashing by Minimizing Independent Relaxed Wasserstein Distance</title>
+      <link>/publication/ijcai_preprint/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ijcai_preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Targeted display advertising: the case of preferential attachment</title>
+      <link>/publication/bigdata_2019/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/bigdata_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

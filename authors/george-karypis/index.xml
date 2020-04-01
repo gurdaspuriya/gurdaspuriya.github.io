@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>George Karypis | Saurav Manchanda</title>
+    <link>/authors/george-karypis/</link>
+      <atom:link href="/authors/george-karypis/index.xml" rel="self" type="application/rss+xml" />
+    <description>George Karypis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>George Karypis</title>
+      <link>/authors/george-karypis/</link>
+    </image>
+    
+    <item>
+      <title>CAWA: An Attention-Network for Credit Attribution</title>
+      <link>/publication/aaai_2020/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/aaai_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intent Term Selection and Refinement in E-Commerce Queries</title>
+      <link>/publication/cikm_2019/</link>
+      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/cikm_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Segmentation on Multilabel Documents: A Distant-Supervised Approach</title>
+      <link>/publication/icdm_2018/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/icdm_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Representation of Multi-Sense Words: A Loss-Driven Approach</title>
+      <link>/publication/pakdd_2018/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/pakdd_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
